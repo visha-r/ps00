@@ -1,0 +1,12 @@
+Date        Who           Start       Stop  	Interruptions 	Question    TimeOnTask    		Comments
+
+9/2  	 Vishalakshy      14:42      15:34  	  10               1           42                 Prepared my mac for lab installing Office 365, Dr Racket & Github
+9/2      Vishalakshy      15:35      16:23	   0		   2	       48		  Completed first 6 exercises in question 2.
+
+==========================committing to git: 9/2 16:24 ===============================
+
+    
+Total Time On Task Q1 (minutes)                   
+Total Time On Task Q2 (minutes)                   
+TOTQ1 (hours and tenths)                          
+TOTQ2 (hours and tenths)                         
