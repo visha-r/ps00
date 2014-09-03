@@ -15,10 +15,3 @@
 (define (even1? num)
   (cond [(= (remainder num 2) 0) true]
         [else false]))
-
-; Tests:
-
-(check-expect (even1? 5) false)
-(check-expect (even1? 24) true)
-(check-expect (even1? 61) false)
-(check-expect (even1? 100) true)
