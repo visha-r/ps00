@@ -4,10 +4,12 @@ Date        Who           Start       Stop  	Interruptions 	Question    TimeOnTa
 9/2      Vishalakshy      15:35      16:23	   0		   2	       48		  Completed first 6 exercises in question 2 and committed to github.
 
 ==========================committing to git: 9/2 16:24 ===============================
-
-9/2      Vishalakshy      08:51      09:46         0 	   	   2	       55	   	  Completed next 4 exercises in question 2 and committed to github.
+9/3      Vishalakshy      08:51      09:46         0 	   	   2	       55	   	  Completed next 4 exercises in question 2 and committed to github.
 
 ==========================committing to git: 9/2 09:48 ===============================
+9/3      Vishalakshy      09:58      10:09         0 	   	   2	       11	   	  Corrected the mistakes in excecise 10 in question 2.
+
+==========================committing to git: 9/3 10:11 ===============================
     
 Total Time On Task Q1 (minutes)                   
 Total Time On Task Q2 (minutes)                   
