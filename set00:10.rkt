@@ -14,7 +14,14 @@
   (if (a>b? a b) 
       (if (b>c? b c) (sum-of-a&b a b) (sum-of-a&c a c))
       (if (a>c? a c) (sum-of-a&b a b) (sum-of-b&c b c))))
-         
+
+; Tests :
+
+(check-expect (sum-two-large 8 1 10) 18)
+(check-expect (sum-two-large 47 41 0) 88)
+(check-expect (sum-two-large 14 51 20) 71)
+ 
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
          
 ; check-a>b? : Number Number -> Number
 ; RETURNS: the larger of the given two numbers.
@@ -31,6 +38,13 @@
 (define (b>c? b c)
   (> b c))
 
+; Tests :
+
+(check-expect (a>b? 7 10) false)
+(check-expect (a>b? 27 1) true)
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
 ; sum-of-a&b : Number Number -> Number
 ; RETURNS: the sum of the given two numbers.
 ; Examples:
@@ -46,9 +60,7 @@
 (define (sum-of-b&c b c)
   (+ b c))
 
-
 ; Tests :
 
-(check-expect (sum-two-large 8 1 10) 18)
-(check-expect (sum-two-large 47 41 0) 88)
-(check-expect (sum-two-large 14 51 20) 71)
+(check-expect (sum-of-a&b 7 10) 17)
+(check-expect (sum-of-a&b 27 1) 28)
