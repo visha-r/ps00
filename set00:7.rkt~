@@ -9,8 +9,6 @@
 ; Examples:
 ; (circumference 1)  =>  6.283185307179586 
 ; (circumference 0)  =>  0
-; (circumference -2) =>  -12.566370614359172
-; (circumference 7)  =>  43.982297150257104
 
 (define (circumference r)
   (* 2 pi r))
