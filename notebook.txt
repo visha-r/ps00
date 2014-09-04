@@ -1,17 +1,21 @@
 Date        Who           Start       Stop  	Interruptions 	Question    TimeOnTask    		Comments
 
-9/2  	 Vishalakshy      14:42      15:34  	  10               1           42                 Prepared my mac for lab installing Office 365, Dr Racket & configured Github
+9/2  	 Vishalakshy      14:42      15:34  	  10               1,3         42                 Prepared my mac for lab installing Office 365, Dr Racket & configured Github
 9/2      Vishalakshy      15:35      16:23	   0		   2	       48		  Completed first 6 exercises in question 2 and committed to github.
 ==========================committing to git: 9/2 16:24 ===============================
 9/3      Vishalakshy      08:51      09:46         0 	   	   2	       55	   	  Completed next 4 exercises in question 2 and committed to github.
 ==========================committing to git: 9/2 09:48 ===============================
 9/3      Vishalakshy      09:58      10:09         0 	   	   2	       11	   	  Corrected the mistakes in excecise 10 in question 2.
 ==========================committing to git: 9/3 10:11 ===============================
+9/4      Vishalakshy	  11:15      11:30	   0               4	       15		  Created a private repository in Github.
 9/4      Vishalakshy      18:28      18:46         0 	   	   2	       18	   	  Added more examples to all the exercises and made changes based on the answers in 												  piazza.
-9/4      Vishalakshy      18:47      18:49         0 	   	   4	       2		  Pushed my files to Github.
+9/4      Vishalakshy      18:47      18:49         0 	   	   4	        2		  Pushed my files to Github.
 ==========================committing to git: 9/4 18:50 ===============================
     
-Total Time On Task Q1 (minutes)                   
-Total Time On Task Q2 (minutes)                   
-TOTQ1 (hours and tenths)                          
-TOTQ2 (hours and tenths)                         
+Total Time On Task Q1 & Q3 (minutes)          42         
+Total Time On Task Q2 (minutes)   	     132
+Total Time On Task Q4 (minutes)   	      17                     
+TOTQ1&Q3 (hours and tenths)  		      0.7		                        
+TOTQ2    (hours and tenths)                   2.2
+TOTQ4    (hours and tenths)                   0.3
+     
