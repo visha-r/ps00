@@ -16,3 +16,9 @@
   (* 2 pi r))
 
 
+; Tests :
+
+(check-within (circumference 1) 6.28 0.1)
+(check-expect (circumference 0) 0)
+(check-within (circumference -2) -12.57 0.1)
+(check-within (circumference 7) 43.99 0.1)

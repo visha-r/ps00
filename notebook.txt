@@ -11,11 +11,13 @@ Date        Who           Start       Stop  	Interruptions 	Question    TimeOnTa
 9/4      Vishalakshy      18:28      18:46         0 	   	   2	       18	   	  Added more examples to all the exercises and made changes based on the answers in 												  piazza.
 9/4      Vishalakshy      18:47      18:49         0 	   	   4	        2		  Pushed my files to Github.
 ==========================committing to git: 9/4 18:50 ===============================
+9/4      Vishalakshy      20:40      20:45         0 	   	   2	        5		  Changed the test cases in ex 3, 7 & 9 based on the discussion in piazza.
+==========================committing to git: 9/4 20:46 ===============================
     
 Total Time On Task Q1 & Q3 (minutes)          42         
-Total Time On Task Q2 (minutes)   	     132
+Total Time On Task Q2 (minutes)   	     137
 Total Time On Task Q4 (minutes)   	      17                     
-TOTQ1&Q3 (hours and tenths)  		      0.7		                        
-TOTQ2    (hours and tenths)                   2.2
-TOTQ4    (hours and tenths)                   0.3
+TOTQ1&Q3 (hours and tenths)  		    0.7		                        
+TOTQ2    (hours and tenths)                 2.3
+TOTQ4    (hours and tenths)                 0.3
      

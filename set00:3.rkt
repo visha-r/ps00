@@ -18,6 +18,6 @@
  ; Tests :
 
  (check-expect (f->c 32) 0)
- (check-expect (f->c 100) 37.77777777777778)
- (check-expect (f->c 44) 6.666666667)
- (check-expect (f->c -10) -23.33333333)
+ (check-within (f->c 100) 37.78 0.1)
+ (check-within (f->c 44) 6.67 0.1)
+ (check-within (f->c -10) -23.34 0.1)

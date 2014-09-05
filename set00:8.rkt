@@ -14,3 +14,8 @@
 (define (circle-area r)
   (* pi r r))
 
+; Tests :
+
+(check-within (circle-area 1) 3.14 0.1)
+(check-within (circle-area 3) 28.27 0.1)
+(check-within (circle-area 5) 78.54 0.1)
