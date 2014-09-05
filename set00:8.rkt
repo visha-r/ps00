@@ -4,12 +4,13 @@
 ; to compute the area of a circle
 
 ; circle-area : Number -> Number
-; GIVEN: the radius r of a circle 
-; RETURNS: its area, using the formula pi * r * r.
+; GIVEN: the radius r of a circle (in cm)
+; RETURNS: its area, using the formula pi * r * r (in cm2).
 ; Examples:
 ; (circle-area 1)  =>  3.141592653589793
 ; (circle-area 3)  =>  28.274333882308138
 ; (circle-area 5)  =>  78.53981633974483
+; Strategy : Domain knowledge
 
 (define (circle-area r)
   (* pi r r))

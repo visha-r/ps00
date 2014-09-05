@@ -1,6 +1,7 @@
 Date        Who           Start       Stop  	Interruptions 	Question    TimeOnTask    		Comments
 
-9/2  	 Vishalakshy      14:42      15:34  	  10               1,3         42                 Prepared my mac for lab installing Office 365, Dr Racket & configured Github
+9/2  	 Vishalakshy      14:42      15:20  	  10               1           28                 Prepared my mac for lab installing Office 365, Dr Racket & Github
+9/2 	 Vishalakshy	  15:20      15:34	   0		   3	       14		  Configured Github by creating a public repository.
 9/2      Vishalakshy      15:35      16:23	   0		   2	       48		  Completed first 6 exercises in question 2 and committed to github.
 ==========================committing to git: 9/2 16:24 ===============================
 9/3      Vishalakshy      08:51      09:46         0 	   	   2	       55	   	  Completed next 4 exercises in question 2 and committed to github.
@@ -13,11 +14,16 @@ Date        Who           Start       Stop  	Interruptions 	Question    TimeOnTa
 ==========================committing to git: 9/4 18:50 ===============================
 9/4      Vishalakshy      20:40      20:45         0 	   	   2	        5		  Changed the test cases in ex 3, 7 & 9 based on the discussion in piazza.
 ==========================committing to git: 9/4 20:46 ===============================
+9/5      Vishalakshy      18:55      19:26         10 	   	   2	       21		  Made few changes in the programs based on the discussion in piazza.
+==========================committing to git: 9/5 19:27 ===============================
+	
     
-Total Time On Task Q1 & Q3 (minutes)          42         
-Total Time On Task Q2 (minutes)   	     137
+Total Time On Task Q1 (minutes)               28         
+Total Time On Task Q2 (minutes)   	     158
+Total Time On Task Q3 (minutes) 	      14
 Total Time On Task Q4 (minutes)   	      17                     
-TOTQ1&Q3 (hours and tenths)  		    0.7		                        
-TOTQ2    (hours and tenths)                 2.3
-TOTQ4    (hours and tenths)                 0.3
+TOTQ1    (hours and tenths)  		     0.7		                        
+TOTQ2    (hours and tenths)                  2.6
+TOTQ3    (hours and tenths)                  0.2
+TOTQ4    (hours and tenths)                  0.3
      

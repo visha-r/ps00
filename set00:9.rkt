@@ -3,22 +3,22 @@
 #reader(lib "htdp-beginner-reader.ss" "lang")((modname set00:9) (read-case-sensitive #t) (teachpacks ()) (htdp-settings #(#t constructor repeating-decimal #f #t none #f ())))
 ; applying remainder functionality to find even numbers.
 
-; is-even? : Integer -> Boolean
-; GIVEN: a number 
-; RETURNS: true if its divisible by 2, false otherwise.
+; even-num? : Integer -> Boolean 
+; RETURNS: true if the given number is even, false otherwise.
 ; Examples:
-; (is-even? 5)    =>  false
-; (is-even? -24)   =>  true
-; (is-even? -61)   =>  false  
-; (is-even? 100)  =>  true 
+; (even-num? 5)    =>  false
+; (even-num? -24)  =>  true
+; (even-num? -61)  =>  false  
+; (even-num? 100)  =>  true 
+; Strategy : Domain knowledge
 
-(define (is-even? num)
+(define (even-num? num)
   (cond [(= (remainder num 2) 0) true]
         [else false]))
 
 ; Tests:
 
-(check-expect (is-even? 5) false)
-(check-expect (is-even? -24) true)
-(check-expect (is-even? -61) false)
-(check-expect (is-even? 100) true)
+(check-expect (even-num? 5) false)
+(check-expect (even-num? -24) true)
+(check-expect (even-num? -61) false)
+(check-expect (even-num? 100) true)

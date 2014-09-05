@@ -10,6 +10,7 @@
 ; (quadratic-equation 1 -3 -4)  => 4
 ; (quadratic-equation 1 0 -4)   => 2
 ; (quadratic-equation 1 4 -12)  => 2
+; Strategy : Domain knowledge
 
 (define (quadratic-equation a b c)
   (/ (+ (- b) (sqrt (- (sqr b) (* 4 a c)))) (* 2 a)))

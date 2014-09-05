@@ -11,12 +11,12 @@
  ; (f->c 100) => 37.77777777777778
  ; (f->c 44)  => 6.666666667
  ; (f->c -10) => -23.33333333
+ ; Strategy : Domain knowledge
 
  (define (f->c f)
   (* (- f 32) (/ 5 9)))
 
  ; Tests :
-
  (check-expect (f->c 32) 0)
  (check-within (f->c 100) 37.78 0.1)
  (check-within (f->c 44) 6.67 0.1)

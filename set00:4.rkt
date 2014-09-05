@@ -17,7 +17,6 @@
   (* bill percent))
 
 ; Tests:
-
 (check-expect (tip 10 0.15) 1.5)
 (check-expect (tip 20 0.17) 3.4)
 (check-expect (tip 100 0.30) 30)

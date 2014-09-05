@@ -11,13 +11,13 @@
 ; (circumference 0)  =>  0
 ; (circumference -2) =>  -12.566370614359172
 ; (circumference 7)  =>  43.982297150257104
+; Strategy : Domain knowledge
 
 (define (circumference r)
   (* 2 pi r))
 
 
 ; Tests :
-
 (check-within (circumference 1) 6.28 0.1)
 (check-expect (circumference 0) 0)
 (check-within (circumference -2) -12.57 0.1)

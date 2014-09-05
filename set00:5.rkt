@@ -10,13 +10,12 @@
 ; (sq 12.4)  => 153.76
 ; (sq -5)    => 25
 ; (sq -7.5)  => 30.25
+; Strategy : Domain knowledge
 
 (define (sq num)
   (sqr num))
 
-
 ; Tests:
-
 (check-expect (sq 10) 100)
 (check-expect (sq 12.4) 153.76)
 (check-expect (sq -5) 25)
