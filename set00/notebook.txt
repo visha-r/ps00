@@ -16,14 +16,15 @@ Date        Who           Start       Stop  	Interruptions 	Question    TimeOnTa
 ==========================committing to git: 9/4 20:46 ===============================
 9/5      Vishalakshy      18:55      19:26         10 	   	   2	       21		  Made few changes in the programs based on the discussion in piazza.
 ==========================committing to git: 9/5 19:27 ===============================
-	
+9/6      Vishalakshy      18:03      18:09          0 	   	   4	        6		  Changed the file names and put them in a folder named set00. Changed the repository 												  name to ps00.
+==========================committing to git: 9/6 18:10 ===============================	
     
 Total Time On Task Q1 (minutes)               28         
 Total Time On Task Q2 (minutes)   	     158
 Total Time On Task Q3 (minutes) 	      14
-Total Time On Task Q4 (minutes)   	      17                     
+Total Time On Task Q4 (minutes)   	      23                     
 TOTQ1    (hours and tenths)  		     0.7		                        
 TOTQ2    (hours and tenths)                  2.6
 TOTQ3    (hours and tenths)                  0.2
-TOTQ4    (hours and tenths)                  0.3
+TOTQ4    (hours and tenths)                  0.4
      
