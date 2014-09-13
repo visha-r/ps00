@@ -1,30 +1,62 @@
 Date        Who           Start       Stop  	Interruptions 	Question    TimeOnTask    		Comments
 
-9/2  	 Vishalakshy      14:42      15:20  	  10               1           28                 Prepared my mac for lab installing Office 365, Dr Racket & Github
-9/2 	 Vishalakshy	  15:20      15:34	   0		   3	       14		  Configured Github by creating a public repository.
-9/2      Vishalakshy      15:35      16:23	   0		   2	       48		  Completed first 6 exercises in question 2 and committed to github.
+9/2  	 Vishalakshy      14:42      15:20  	  10               1            28                Prepared my mac for lab installing Office 365, Dr Racket & Github
+9/2 	 Vishalakshy	  15:20      15:34	   0		   3	        14		  Configured Github by creating a public repository.
+9/2      Vishalakshy      15:35      16:23	   0		   2	        48		  Completed first 6 exercises in question 2 and committed to github.
 ==========================committing to git: 9/2 16:24 ===============================
-9/3      Vishalakshy      08:51      09:46         0 	   	   2	       55	   	  Completed next 4 exercises in question 2 and committed to github.
+9/3      Vishalakshy      08:51      09:46         0 	   	   2	        55	   	  Completed next 4 exercises in question 2 and committed to github.
 ==========================committing to git: 9/2 09:48 ===============================
-9/3      Vishalakshy      09:58      10:09         0 	   	   2	       11	   	  Corrected the mistakes in excecise 10 in question 2.
+9/3      Vishalakshy      09:58      10:09         0 	   	   2	        11	   	  Corrected the mistakes in excecise 10 in question 2.
 ==========================committing to git: 9/3 10:11 ===============================
-9/4      Vishalakshy	  11:15      11:30	   0               4	       15		  Created a private repository in Github.
-9/4      Vishalakshy      18:28      18:46         0 	   	   2	       18	   	  Added more examples to all the exercises and made changes based on the answers in 												  piazza.
-9/4      Vishalakshy      18:47      18:49         0 	   	   4	        2		  Pushed my files to Github.
+9/4      Vishalakshy      18:28      18:46         0 	   	   2	        18	   	  Added more examples to all the exercises and made changes based on the answers in 												  piazza.
 ==========================committing to git: 9/4 18:50 ===============================
 9/4      Vishalakshy      20:40      20:45         0 	   	   2	        5		  Changed the test cases in ex 3, 7 & 9 based on the discussion in piazza.
 ==========================committing to git: 9/4 20:46 ===============================
-9/5      Vishalakshy      18:55      19:26         10 	   	   2	       21		  Made few changes in the programs based on the discussion in piazza.
+9/5      Vishalakshy      18:55      19:26         10 	   	   2	        21		  Made few changes in the programs based on the discussion in piazza.
 ==========================committing to git: 9/5 19:27 ===============================
-9/6      Vishalakshy      18:03      18:09          0 	   	   4	        6		  Changed the file names and put them in a folder named set00. Changed the repository 												  name to ps00.
-==========================committing to git: 9/6 18:10 ===============================	
-    
+9/6      Vishalakshy	  15:52      16:07	   0               4	        15		 Created a private repository in Github.
+==========================committing to git: 9/6 16:07 ===============================
+9/4  	 Vishalakshy      19:39      20:34  	    5              2            50               Completed exercises 11 to 18
+==========================committing to git: 9/4 20:35 ===============================
+9/7  	 Vishalakshy      16:28      17:16  	    5              2            43               Completed exercises 19 & 20.
+==========================committing to git: 9/7 17:17 ===============================
+9/7  	 Vishalakshy      18:44      19:46  	    10             2            52               Worked on bringing out the shape of the human image in exercise 21.
+==========================committing to git: 9/7 19:48 ===============================
+9/8	 Vishalakshy	  18:34      18:39  	     0             2             5               Completed exercises 22 & 23.
+9/8	 Vishalakshy	  18:39      18:53  	     0             2            14               Worked on exercise 24 & 25.
+==========================committing to git: 9/8 18:54 ===============================
+9/9	 Vishalakshy	  09:13      10:04  	    10             2            41               Worked on exercise 26.
+==========================committing to git: 9/8 18:54 ===============================
+9/9	 Vishalakshy      22:44      22:56  	     0             2            12               Tried to figure out a way to extend a file in exercise 21 but it didn’t work out.
+9/9	 Vishalakshy	  22:57      23:15  	     5             2            13               Worked on exercise 27.
+==========================committing to git: 9/9 23:17 ===============================
+9/10	 Vishalakshy      19:52      20:19  	     0             2            27               Completed exercise 21a by successfully extending the file 21.rkt.
+9/10	 Vishalakshy	  20:20      20:58  	    15             2            23               Worked on exercise 27a. Spent more time on the test case as 2 of the test cases
+												 failed because of missing “ “.
+9/10	 Vishalakshy	  20:58      21:17  	     0             2            19		 Worked on the possible solutions to extract a list from a list of list.    
+==========================committing to git: 9/10 21:21 ===============================
+9/10	 Vishalakshy	  22:44      23:18  	    10             2            24		 Completed exercise 28.    
+==========================committing to git: 9/10 23:20 ===============================
+9/11	 Vishalakshy	  13:31      13:45  	     0             2            14		 Completed exercise 29.    
+==========================committing to git: 9/11 13:46 ===============================
+9/11	 Vishalakshy	  13:51      13:57  	     0             2             6		 Completed exercise 30. 
+9/11	 Vishalakshy	  13:57      14:08  	     0             2            11		 Completed exercise 31.
+9/11	 Vishalakshy	  14:09      14:30  	     0             2            21		 Completed exercise 32. Stuck in the problem because passed the points as parameters 												 to sum function instead of the attributes of points.  
+==========================committing to git: 9/11 14:33 =============================== 
+9/11	 Vishalakshy	  20:04      20:53  	     5             2            49		 Refined exercises 11 to 21 by adding more appropriate test cases and deleting the 												 unnecessary code.
+==========================committing to git: 9/11 20:54 =============================== 
+9/11	 Vishalakshy	  22:24      22:59  	     0             2            35		 Refined exercises 22 to 32 by adding more appropriate test cases, design strategy 												 and deleting the unwanted code.
+==========================committing to git: 9/11 23:01 ===============================	
+9/12	 Vishalakshy	  20:03      20:35  	     5             2            27		 Spent more time on rewriting the test cases to compare images. Also deleted the 												 unnecessary functions by clubbing the appropriate ones.
+9/12	 Vishalakshy	  20:36      21:12  	    10             2            26		 Modified the ex from 16 to 21a by adding rackunit and rewriting the test cases.
+9/12	 Vishalakshy	  21:12      22:44  	   10+10           2            72		 For ex 22 to 32, added data definition for lists, rewrote all the test cases for 												 image functions, added rackunit, deleted the unwanted functions.
+==========================committing to git: 9/12 22:48 ===============================	    
 Total Time On Task Q1 (minutes)               28         
-Total Time On Task Q2 (minutes)   	     158
+Total Time On Task Q2 (minutes)   	     717
 Total Time On Task Q3 (minutes) 	      14
-Total Time On Task Q4 (minutes)   	      23                     
+Total Time On Task Q4 (minutes)   	      17                     
 TOTQ1    (hours and tenths)  		     0.7		                        
-TOTQ2    (hours and tenths)                  2.6
+TOTQ2    (hours and tenths)                 11.6 
 TOTQ3    (hours and tenths)                  0.2
-TOTQ4    (hours and tenths)                  0.4
+TOTQ4    (hours and tenths)                  0.3
      
