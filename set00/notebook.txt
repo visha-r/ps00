@@ -47,9 +47,9 @@ Date        Who           Start       Stop  	Interruptions 	Question    TimeOnTa
 ==========================committing to git: 9/11 20:54 =============================== 
 9/11	 Vishalakshy	  22:24      22:59  	     0             2            35		 Refined exercises 22 to 32 by adding more appropriate test cases, design strategy 												 and deleting the unwanted code.
 ==========================committing to git: 9/11 23:01 ===============================	
-9/12	 Vishalakshy	  20:03      20:35  	     5             2            27		 Spent more time on rewriting the test cases to compare images. Also deleted the 												 unnecessary functions by clubbing the appropriate ones.
-9/12	 Vishalakshy	  20:36      21:12  	    10             2            26		 Modified the ex from 16 to 21a by adding rackunit and rewriting the test cases.
-9/12	 Vishalakshy	  21:12      22:44  	   10+10           2            72		 For ex 22 to 32, added data definition for lists, rewrote all the test cases for 												 image functions, added rackunit, deleted the unwanted functions.
+9/12	 Vishalakshy	  20:03      20:35  	     5             2            27		 Spent more time on rewriting the test cases to compare images. Also deleted the 												 unnecessary functions by clubbing the appropriate ones. Changed test cases from 												 check-expect to check-equal?
+9/12	 Vishalakshy	  20:36      21:12  	    10             2            26		 Modified the ex from 16 to 21a by changing test cases from check-expect to check-												 equal? and fine tuned the programs.
+9/12	 Vishalakshy	  21:12      22:44  	   10+10           2            72		 For ex 22 to 32, added data definition for lists, rewrote all the test cases for 												 image functions, changed test cases from check-expect to check-equal?, deleted the unwanted functions.
 ==========================committing to git: 9/12 22:48 ===============================	    
 Total Time On Task Q1 (minutes)               28         
 Total Time On Task Q2 (minutes)   	     717
